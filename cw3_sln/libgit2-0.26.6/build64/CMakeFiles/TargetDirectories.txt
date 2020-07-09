@@ -1,0 +1,4 @@
+C:/libgit2-0.26.6/build64/CMakeFiles/git2.dir
+C:/libgit2-0.26.6/build64/CMakeFiles/INSTALL.dir
+C:/libgit2-0.26.6/build64/CMakeFiles/ALL_BUILD.dir
+C:/libgit2-0.26.6/build64/CMakeFiles/ZERO_CHECK.dir
